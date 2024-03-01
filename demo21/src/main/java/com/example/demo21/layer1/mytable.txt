@@ -1,0 +1,5 @@
+create table accountdetails(
+    acid int ;
+    Accname varchar(20);
+     balance int;
+)
